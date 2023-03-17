@@ -1,7 +1,8 @@
 # preservicatools :sun_behind_large_cloud:
 
 ## Getting Started
-**This is a snapshot of my working repo. The commands below won't work without some modification to account for the fact that the ualr-cahc repo isn't public at the moment.**
+**This is a snapshot of my working repo. The commands below won't work without some modification to account for the fact that the ualr-cahc repo isn't public at the moment. I apologize for the inconvenience.**
+
 ### pip install
 1. Ensure that you have python 3.10.7 or later installed, as well as git
 2. Clone the repo:
