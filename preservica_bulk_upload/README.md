@@ -1,7 +1,7 @@
 # preservicatools :sun_behind_large_cloud:
 
 ## Getting Started
-**This is a snapshot of my working repo. The commands below won't work without some modification to account for the fact that the ualr-cahc repo isn't public at the moment. I apologize for the inconvenience.**
+**This is a snapshot of my working repo. The commands below won't work without some modification to account for the fact that the ualr-cahc repo isn't public at the moment. You can make it work if you clone the code4lib2023 repo and execute these commands as if the preservica_bulk_upload folder is the preservicatools repo. I apologize for the inconvenience.**
 
 ### pip install
 1. Ensure that you have python 3.10.7 or later installed, as well as git
