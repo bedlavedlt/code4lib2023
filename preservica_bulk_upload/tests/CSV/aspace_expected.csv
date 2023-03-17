@@ -1,0 +1,21 @@
+./tests/output/
+./tests/output/*
+./tests/output/*/archival_object_1
+./tests/output/*/archival_object_2
+./tests/output/*/archival_object_1/digital object1
+./tests/output/*/archival_object_1/digital object2
+./tests/output/*/archival_object_2/digital object3
+./tests/output/*/*.opex
+./tests/output/*/archival_object_1/archival_object_1.opex
+./tests/output/*/archival_object_2/archival_object_2.opex
+./tests/output/*/archival_object_1/digital object1/digital object1.opex
+./tests/output/*/archival_object_1/digital object2/digital object2.opex
+./tests/output/*/archival_object_2/digital object3/digital object3.opex
+./tests/output/*/archival_object_1/digital object1/file0.txt.opex
+./tests/output/*/archival_object_1/digital object1/file1.txt.opex
+./tests/output/*/archival_object_1/digital object2/file2.txt.opex
+./tests/output/*/archival_object_2/digital object3/file3.txt.opex
+./tests/output/*/archival_object_1/digital object1/file0.txt
+./tests/output/*/archival_object_1/digital object1/file1.txt
+./tests/output/*/archival_object_1/digital object2/file2.txt
+./tests/output/*/archival_object_2/digital object3/file3.txt

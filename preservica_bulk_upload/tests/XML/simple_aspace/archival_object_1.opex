@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<opex:OPEXMetadata xmlns:opex="http://www.openpreservationexchange.org/opex/v1.0">
+	<opex:Transfer>
+		<opex:Manifest>
+			<opex:Folders>
+				<opex:Folder>digital object1</opex:Folder>
+				<opex:Folder>digital object2</opex:Folder>
+			</opex:Folders>
+		</opex:Manifest>
+	</opex:Transfer>
+	<opex:Properties>
+		<opex:Title>archival_object_1</opex:Title>
+		<opex:Description>Archival Object</opex:Description>
+		<opex:SecurityDescriptor>open</opex:SecurityDescriptor>
+		<opex:Identifiers>
+			<opex:Identifier type="code">archival_object_1</opex:Identifier>
+		</opex:Identifiers>
+	</opex:Properties>
+	<opex:DescriptiveMetadata>
+        <LegacyXIP xmlns="http://preservica.com/LegacyXIP">
+            <Virtual>false</Virtual>
+        </LegacyXIP>
+    </opex:DescriptiveMetadata>
+</opex:OPEXMetadata>
+        

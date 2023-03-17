@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+    <opex:OPEXMetadata xmlns:opex="http://www.openpreservationexchange.org/opex/v1.0">
+	<opex:Transfer>
+		<opex:Fixities>
+			<opex:Fixity type="SHA-256" value="e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855" />
+		</opex:Fixities>
+	</opex:Transfer>
+	<opex:Properties>
+		<opex:Description>File Type: txt; File Size: 0 Bytes; Created: 2022-10-05 10:14:36; Modified: 2022-10-07 14:50:20</opex:Description>
+		<opex:Identifiers>
+			<opex:Identifier type="code">2</opex:Identifier>
+		</opex:Identifiers>
+	</opex:Properties>
+</opex:OPEXMetadata>
+        

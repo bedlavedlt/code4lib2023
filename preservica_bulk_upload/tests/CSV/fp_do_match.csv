@@ -1,0 +1,5 @@
+filepath,digital object name,security tag,digital surrogate,archival object number
+./tests/input/file0.txt,file0.txt,open,false,1
+./tests/input/file1.txt,file1.txt,open,false,1
+./tests/input/file2.txt,file2.txt,open,false,1
+./tests/input/file3.txt,file3.txt,closed,true,2

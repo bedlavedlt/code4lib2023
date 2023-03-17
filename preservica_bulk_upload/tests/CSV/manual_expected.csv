@@ -1,0 +1,21 @@
+./tests/output/
+./tests/output/*
+./tests/output/*/collection1
+./tests/output/*/collection2
+./tests/output/*/collection1/digital object1
+./tests/output/*/collection1/digital object2
+./tests/output/*/collection2/digital object3
+./tests/output/*/*.opex
+./tests/output/*/collection1/collection1.opex
+./tests/output/*/collection2/collection2.opex
+./tests/output/*/collection1/digital object1/digital object1.opex
+./tests/output/*/collection1/digital object2/digital object2.opex
+./tests/output/*/collection2/digital object3/digital object3.opex
+./tests/output/*/collection1/digital object1/file0.txt.opex
+./tests/output/*/collection1/digital object1/file1.txt.opex
+./tests/output/*/collection1/digital object2/file2.txt.opex
+./tests/output/*/collection2/digital object3/file3.txt.opex
+./tests/output/*/collection1/digital object1/file0.txt
+./tests/output/*/collection1/digital object1/file1.txt
+./tests/output/*/collection1/digital object2/file2.txt
+./tests/output/*/collection2/digital object3/file3.txt

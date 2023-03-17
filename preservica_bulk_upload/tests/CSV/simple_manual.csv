@@ -1,0 +1,5 @@
+filepath,digital object name,security tag,digital surrogate,collection number,collection name
+./tests/input/file0.txt,digital object1,open,false,1,collection1
+./tests/input/file1.txt,digital object1,open,false,1,collection1
+./tests/input/file2.txt,digital object2,open,false,1,collection1
+./tests/input/file3.txt,digital object3,closed,true,2,collection2

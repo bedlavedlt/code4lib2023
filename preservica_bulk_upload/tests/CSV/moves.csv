@@ -1,0 +1,5 @@
+original_location, destination
+./tests/output/file0.txt,./tests/input/file0.txt
+./tests/output/file1.txt,./tests/input/file1.txt
+./tests/output/file2.txt,./tests/input/file2.txt
+./tests/output/file3.txt,./tests/input/file3.txt

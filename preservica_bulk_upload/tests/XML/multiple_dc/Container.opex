@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+    <opex:OPEXMetadata xmlns:opex="http://www.openpreservationexchange.org/opex/v1.0">
+	<opex:Transfer>
+		<opex:Manifest>
+			<opex:Folders>
+				<opex:Folder>collection1</opex:Folder>
+				<opex:Folder>collection2</opex:Folder>
+			</opex:Folders>
+		</opex:Manifest>
+	</opex:Transfer>
+</opex:OPEXMetadata>
+        
